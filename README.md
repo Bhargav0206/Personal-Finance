@@ -1,2 +1,2 @@
 # Personal-Finance
-Finance dashboard
+Finance dashboard using Excel
